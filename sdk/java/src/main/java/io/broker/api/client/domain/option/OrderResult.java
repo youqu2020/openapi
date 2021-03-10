@@ -7,9 +7,9 @@ import lombok.Singular;
 /**
  * @ProjectName:
  * @Package:
- * @Author: yuehao  <hao.yue@>
+ * @Author: yuehao  <hao.yue@dfm.today>
  * @CreateDate: 2020-06-04 11:10
- * @Copyright（C）: 2018 Inc. All rights reserved.
+ * @Copyright（C）: 2018 YouQuEx Inc. All rights reserved.
  */
 public class OrderResult {
 

@@ -88,7 +88,7 @@ Errors consist of two parts: an error code and a message. Codes are universal,
 ### -1103 UNKNOWN_PARAM
 
 * An unknown parameter was sent.
-* In Open Api , each request requires at least one parameter. {Timestamp}.
+* In YouQuEx Open Api , each request requires at least one parameter. {Timestamp}.
 
 ### -1104 UNREAD_PARAMETERS
 

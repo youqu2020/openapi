@@ -1,7 +1,7 @@
-# Api Endpoints for HBTC Broker
+# Api Endpoints for YouQuEx Broker
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.hbtc.com](https://api.hbtc.com)**
-web-socket-streams | **[wss://wsapi.hbtc.com](wss://wsapi.hbtc.com)**
-user-data-stream | **[wss://wsapi.hbtc.com](wss://wsapi.hbtc.com)**
+rest-api | **[https://api.dfm.today](https://api.dfm.today)**
+web-socket-streams | **[wss://wsapi.dfm.today](wss://wsapi.dfm.today)**
+user-data-stream | **[wss://wsapi.dfm.today](wss://wsapi.dfm.today)**
